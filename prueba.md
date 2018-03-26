@@ -1,4 +1,4 @@
-## Nuevaa prueba
+## Nueva prueba
 
 Este es un documento de prueba para probar el editor de **Markdown**.
 
